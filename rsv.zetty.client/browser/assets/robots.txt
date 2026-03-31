@@ -1,4 +1,75 @@
+# =========================================
+# ZetsApp.com - robots.txt
+# Last Updated: 2026-03-31
+# =========================================
+
+# Allow all search engine crawlers
 User-agent: *
 Allow: /
 
-Sitemap: https://zetsapp.com/sitemap.xml
+# ---- Block Private / Auth Pages ----
+Disallow: /dashboard/
+Disallow: /profile/
+Disallow: /login/
+Disallow: /register/
+Disallow: /admin/
+Disallow: /account/
+Disallow: /settings/
+Disallow: /api/
+
+# ---- Block Duplicate / Utility URLs ----
+Disallow: /*?ref=*
+Disallow: /*?utm_source=*
+Disallow: /*?utm_medium=*
+Disallow: /*?utm_campaign=*
+Disallow: /*?source=*
+Disallow: /*?preview=*
+
+# ---- Block Contact Route from being over-indexed ----
+# (Contact page links used as placeholder in nav - avoid duplicate indexing)
+Disallow: /home/contact$
+
+# ---- Allow Static Assets ----
+Allow: /assets/
+Allow: /images/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+
+# =========================================
+# Google Specific Rules
+# =========================================
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# =========================================
+# Bing Specific Rules
+# =========================================
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# =========================================
+# Block Bad Bots
+# =========================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# =========================================
+# Sitemap Location
+# =========================================
+Sitemap: https://www.zetsapp.com/sitemap.xml

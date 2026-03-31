@@ -1,16 +1,376 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <!-- ===== MAIN PAGES ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
+  <url>
+    <loc>https://www.zetsapp.com/home</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-<url>
-  <loc>https://www.zetsapp.com/</loc>
-  <lastmod>2026-02-28T15:02:59+00:00</lastmod>
-</url>
+  <url>
+    <loc>https://www.zetsapp.com/tools</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
+  <url>
+    <loc>https://www.zetsapp.com/home/blogs</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/home/web-apps</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/home/mobile-apps</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/home/contact</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ===== HEALTHCARE & LABORATORY TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/bmi-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/app-health-risk-assessment</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/medication-interaction-checker</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/bp-tracker</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== REAL ESTATE TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/mortgage-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/rental-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/affordability-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/stamp-duty-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/rent-vs-buy-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== FINANCIAL TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/compound-interest-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/sip-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/loan-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/gst-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/retirement-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== EDUCATION TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/scientific-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/plagiarism-checker</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== LEGAL TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/legal-documents</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/business-registration</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/privacy-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== CONSTRUCTION TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/cost-estimator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/material-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/unit-converter</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/structural-load-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/onsite-construction-platform</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/soil-foundation-calculator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== PRODUCTIVITY TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/ai-citation-audit</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/ai-disclaimer-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/eeat-signal-checker</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/html-viewer</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/transformer-explainer</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/ai-workflow-builder</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== SOCIAL TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/youtube-downloader</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== DOCUMENT MANAGEMENT TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/documents</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/docx-to-pdf</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/pdf-converter</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/text-extractor</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/table-extractor</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/media-extractor</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/file-converter</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== DEVELOPER TOOLS ===== -->
+  <url>
+    <loc>https://www.zetsapp.com/tools/color-palette-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/qr-code-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/sitemap-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/advanced-template-builder</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.zetsapp.com/tools/portfolio-generator</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
