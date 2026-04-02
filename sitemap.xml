@@ -482,12 +482,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+
   <url>
     <loc>https://www.zetsapp.com/home/blogs/data-pipelines-explained-the-complete-guide-from-raw-data-to-business-intelligence</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+ <url>
+    <loc>https://www.zetsapp.com/home/blog/gradient-descent-explained-how-neural-networks-actually-learn-zetsapp</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.zetsapp.com/home/blogs/message-queue-architecture-from-ibm-mq-to-apache-kafka-and-pulsar</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
