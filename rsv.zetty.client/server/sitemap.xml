@@ -510,4 +510,29 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+    <loc>https://www.zetsapp.com/home/blog/backpropagation-explained-the-algorithm-that-teaches-neural-networks</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/home/blog/inside-the-transformer-how-gpt-actually-processes-language</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/home/blog/the-attention-mechanism-heart-of-every-transformer</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+<url>
+    <loc>https://www.zetsapp.com/home/blog/multi-layer-perceptrons-where-llms-hide-their-knowledge-zetsapp</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
