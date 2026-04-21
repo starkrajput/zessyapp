@@ -591,5 +591,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+<url>
+    <loc>https://www.zetsapp.com/home/blog/graphql-explained-when-to-use-it-and-when-rest-is-still-better-zetsapp</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
