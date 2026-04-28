@@ -625,4 +625,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+<url>
+    <loc>https://www.zetsapp.com/home/blog/llm-memory-how-to-give-ai-a-persistent-memory-zetsapp</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
