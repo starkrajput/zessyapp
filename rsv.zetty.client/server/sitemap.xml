@@ -653,4 +653,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+<url>
+    <loc>https://www.zetsapp.com/home/blog/vector-database-expert-guide-hnsw-rag-the-ai-data-layer-zetsapp-1</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
