@@ -714,4 +714,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+<url>
+    <loc>https://www.zetsapp.com/home/blog/biological-language-models-ai-that-reads-writes-the-genome-zetsapp</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
