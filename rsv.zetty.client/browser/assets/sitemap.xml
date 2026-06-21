@@ -238,6 +238,36 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://www.zetsapp.com/software/relina-onsite</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/software/volaxin-maritime</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/software/chartexec</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/software/meditrack-ehr</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.zetsapp.com/software/finsight-analytics</loc>
+    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
   <!-- ===== HEALTHCARE & LABORATORY TOOLS ===== -->
   <url>

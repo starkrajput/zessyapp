@@ -1,6 +1,9 @@
 {
   "routes": [
     "/",
+    "/home/contact",
+    "/home/mobile-apps",
+    "/home/web-apps",
     "/services",
     "/services/ai-development",
     "/services/custom-software-development",
@@ -8,14 +11,19 @@
     "/services/saas-products",
     "/services/web-app-development",
     "/software",
+    "/software/chartexec",
     "/software/chatgpt",
     "/software/crowdstrike",
+    "/software/finsight-analytics",
     "/software/hr-chest",
     "/software/hubspot",
     "/software/jira",
+    "/software/meditrack-ehr",
     "/software/notion",
+    "/software/relina-onsite",
     "/software/salesforce",
     "/software/slack",
+    "/software/volaxin-maritime",
     "/software/workday",
     "/software/zendesk"
   ]
