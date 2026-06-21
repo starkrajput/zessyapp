@@ -1,0 +1,28 @@
+# ZetsApp
+
+> ZetsApp builds and sells custom software, AI solutions, and ready-to-use SaaS products for startups and enterprises. We also publish in-depth engineering guides and host a directory of business software with pricing, features, and reviews.
+
+ZetsApp helps businesses **build**, **buy**, and **compare** software:
+- Custom software development (web & mobile apps)
+- AI & machine learning services (LLM apps, AI agents, RAG pipelines)
+- SaaS products ready to adopt today
+- A searchable directory of business software (CRM, HR, security, AI, collaboration, and more)
+
+## Services
+- [Custom Software & AI Services](https://www.zetsapp.com/): End-to-end product engineering, AI integration, and SaaS delivery.
+- [Contact / Hire Us](https://www.zetsapp.com/home/contact): Start a project or request a quote.
+
+## Software Directory
+- [Browse all software](https://www.zetsapp.com/software): Compare products by category, pricing, deployment, and reviews.
+- [Web Apps](https://www.zetsapp.com/home/web-apps)
+- [Mobile Apps](https://www.zetsapp.com/home/mobile-apps)
+
+## Free Tools
+- [All Tools](https://www.zetsapp.com/tools): Calculators and utilities across finance, real estate, healthcare, construction, AI, and developer tools.
+
+## Engineering Blog
+- [Blog](https://www.zetsapp.com/home/blogs): Deep technical guides on AI, LLMs, system design, databases, networking, and software architecture.
+
+## Contact
+- Email: info@zetsapp.com
+- Website: https://www.zetsapp.com
