@@ -750,4 +750,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+<url>
+    <loc>https://www.zetsapp.com/home/blog/how-gpus-actually-work-the-nvidia-ga102-architecture-decoded-inside-the-rtx-3090-zetsapp</loc>
+    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
