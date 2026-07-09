@@ -593,6 +593,11 @@ All 16:9 JPGs into `src/assets/software/`. Image `-1` is the card thumbnail. Sam
 
 ## Education Software (sub-categories)
 
+### EduCare School ERP (SIS) — #16a34a
+- `educare-school-erp-1.jpg` — School ERP admin dashboard: green-themed sidebar (Admissions, Students, Fees, Exams, Timetable, Library, Payroll, Reports), top KPI cards for total students, fees collected, attendance % and pending admission enquiries, a fees-collection bar chart and a multi-branch selector, emerald-green glow accents.
+- `educare-school-erp-2.jpg` — Class-wise fees setup + student fee collection screen: fee heads by class/section, payment status table, and a receipt/invoice preview; alongside an exam scheduling and online-exam panel, emerald-green UI.
+- `educare-school-erp-3.jpg` — Document generation screen: dropdown of Student ID Card, Transfer Certificate, Bonafide, Report Card, plus a generated ID-card/report-card PDF preview, with WhatsApp/email notification toggles and role-based permission chips, emerald-green highlights.
+
 ### EduCloud LMS (LMS) — #6366f1
 - `educloud-lms-1.jpg` — School LMS: course list, assignments to grade, virtual classroom tile, indigo accents.
 - `educloud-lms-2.jpg` — Gradebook + assignment grading, indigo UI.
